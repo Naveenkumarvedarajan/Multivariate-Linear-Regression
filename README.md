@@ -38,7 +38,7 @@ print("Predicted CO2 for the corresponding weight and volume",predictedCO2)
 
 ```
 ## Output:
-https://github.com/Hariniii21/Multivariate-Linear-Regression/blob/master/exp%2010.png
+![image](https://github.com/Naveenkumarvedarajan/Multivariate-Linear-Regression/assets/147140428/77c6503e-d5c8-4a0f-b316-941a52646032)
 
 ### Insert your output
 
